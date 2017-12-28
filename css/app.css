@@ -1,0 +1,38 @@
+.content {
+text-align: center;
+padding-top: 35%;
+text-shadow: 0px 4px 3px rgb(0, 0, 0,0.4),
+             0px 8px 13px rgb(0, 0, 0,0.1),
+             0px 4px 3px rgb(0, 0, 0,0.4),
+}
+
+body {
+  background: url(https://images.unsplash.com/photo-1503925802536-c9451dcd87b5?dpr=1&auto=compress,format&fit=crop&w=3300&h=&q=80&cs=tinysrgb&crop=);
+  background-size: cover;
+  background-position: center;
+  font-family: 'Lato', sans-serif;
+  color: white;
+
+}
+
+.navbar {
+  background-color: white;
+}
+
+hr {
+  border: 0;
+height: 0;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+
+  width: 400px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+html {
+  height: 100%;
+}
